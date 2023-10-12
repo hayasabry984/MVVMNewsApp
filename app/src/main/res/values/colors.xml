@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="angel_blue">#00B7D1</color>
+    <color name="transparent">#00F1EEEE</color>
+    <color name="dark_moderate_violet">#4C367C</color>
+    <color name="light_grayish_violet">#ECE4FC</color>
+    <color name="dark_violet">#2e205d</color>
+    <color name="very_dark_violet">#12012C</color>
+    <color name="mostly_desaturated_dark_violet">#6F5A95</color>
+    <color name="grayish_blue">#B4ACD4</color>
+    <color name="very_dark_grayish_blue">#545455</color>
+    <color name="dark_grey">#737373</color>
+    <color name="dark_grayish_lime_green">#A5A6A5</color>
+    <color name="light_grayish_yellow">#D9D9D8</color>
+    <color name="light_grey">#B3B3B3</color>
+    <color name="background_grey">#CBCBCB</color>
+    <color name="button_bkg_grey">#9E9E9E</color>
+
 </resources>

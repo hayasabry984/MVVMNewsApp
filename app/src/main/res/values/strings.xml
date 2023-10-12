@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">MVVMNewsApp</string>
+    <string name="app_name">NewsBreeze</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="welcome">Welcome </string>
+    <string name="sign_in_text">Sign in to continue</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Don\'t have an account? Sign Up</string>
+    <string name="guest">Continue as guest</string>
+    <string name="news_breeze">News Breeze</string>
+    <string name="action_getting_started">Getting Started</string>
+    <string name="sign_up_text">Sign up now</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="sign_in">Already have an account? Login</string>
+    <string name="logo_desc">NewsBreeze</string>
+    <string name="remember_me">Remember me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
