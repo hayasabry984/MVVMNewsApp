@@ -1,11 +1,11 @@
-package com.example.newsbreeze.activities
+package com.androiddevs.newsapp.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.content.Intent
 import com.example.newsbreeze.databinding.ActivityLoginBinding
 import android.widget.Toast
-import com.example.newsbreeze.R
+import com.androiddevs.newsapp.R
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {
